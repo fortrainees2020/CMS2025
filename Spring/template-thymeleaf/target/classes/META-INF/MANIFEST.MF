@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ashujauhari
+Build-Jdk: 15.0.2
+Implementation-Title: template-thymeleaf
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.springexamples.demo
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
